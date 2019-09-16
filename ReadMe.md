@@ -1,5 +1,7 @@
 Good Evening class!
 
+This is william querrie. Github name is wsq01376
+
 For tonight's in class exercise, we are going to focus around how to use git for Software Configuration Management (SCM).
 
 Your assignment is to:
